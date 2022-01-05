@@ -1,0 +1,37 @@
+ .App{
+     /* background-image: url("");; */
+     background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+     url("https://images.ctfassets.net/hrltx12pl8hq/6QpKgim9qMgGK8QG2a6gaC/2de28b955c0cf902004fecd1a1e62bee/sub-category-1.jpg?fit=fill&w=368&h=207");
+    }
+ .App div{
+
+border: solid 10px crimson;
+border-radius: 50px;
+max-width: 93vw;
+margin-left: 25px;
+
+}
+
+.title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color: red;
+    font-weight: 400px;
+    font-style: italic;
+    text-decoration: underline;
+    }
+
+.cats{
+    height: 400px;
+    width: 500px;
+    margin-right: 10px;
+}
+
+#videos{
+    margin-top: 50px;
+    width: 300;
+    height: 250;
+    border: solid 10px crimson;
+    border-radius: 50px;
+}
+
